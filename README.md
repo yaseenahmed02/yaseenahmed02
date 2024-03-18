@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yaseen Ahmed</h1>
 <h3 align="center">Hi there! I'm Yaseen Ahmed, a fervent advocate for transformative technology and meaningful progress. Dive into my world of innovation, where each project is a step towards a brighter future. 🌟 Let's connect and create!</h3>
 
-- 👨‍💻 All of my projects are available at [https://yaseenahmed.netlify.app/](https://yaseenahmed.netlify.app/)
+- 👨‍💻 All of my projects are available under 'Repositories'
+- Checkout my portfolio! [https://yaseenahmed.netlify.app/](https://yaseenahmed.netlify.app/)
 
 - 📫 How to reach me **yahme02@gmail.com**
 
