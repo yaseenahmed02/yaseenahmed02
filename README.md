@@ -1,7 +1,14 @@
 <h1 align="center">Yaseen Ahmed</h1>
 
 <p align="center">
-Building AI-native systems that execute.
+Building AI systems that execute, not just generate.
+</p>
+
+<p align="center">
+<a href="https://voqal.ai">Voqal</a> • 
+<a href="https://qaflow.com">QA flow</a> • 
+<a href="https://islandshq.xyz">Islands</a>
+<a href="https://coachpal.app">CoachPal</a>
 </p>
 
 ---
@@ -10,22 +17,26 @@ Building AI-native systems that execute.
 
 I design and ship systems where AI moves from “assistant” to **operator**.
 
-- AI agents that execute workflows end-to-end  
-- Voice-first interfaces that replace traditional UX  
-- Data + ML systems that drive real business decisions (not dashboards)  
-
-Currently working across:
-- **Voqal AI** — voice as an execution layer inside apps  
-- **QA flow** — autonomous QA engineers that test and log bugs  
-- Applied ML systems (forecasting, automation, infra)
+- Head of AI @ <a href="https://islandshq.xyz">Islands</a>  
+- Founder @ <a href="https://voqal.ai">Voqal</a> — voice as an execution layer for business (Arabic-first)
+- Founder @ <a href="https://coachpal.app">CoachPal</a> — the OS for human performance 
+- Founding Eng @ <a href="https://qaflow.com">QA flow</a> — autonomous QA engineers  
 
 ---
 
-### What I care about
+### Current focus
+
+- Agentic systems that execute workflows end-to-end  
+- Voice interfaces replacing traditional UX  
+- ML systems that drive real business decisions (not dashboards)  
+
+---
+
+### Thesis
 
 Most software still assumes humans are in the loop.
 
-That’s changing.
+That breaks at scale.
 
 The next generation of products:
 - don’t wait for input  
@@ -34,29 +45,25 @@ The next generation of products:
 
 They **understand intent and act**.
 
-That’s what I build.
+---
+
+### Areas of work
+
+- Multi-agent systems (MCP, tool use, orchestration)  
+- LLM + backend integration in production  
+- Forecasting / optimization systems  
+- Real-time voice infrastructure  
+- AI-native product architecture  
 
 ---
 
-### Selected Areas
-
-- Agentic systems (multi-agent, tool use, MCP)  
-- LLM + backend integration (real production systems)  
-- ML for decision-making (forecasting, optimization, ops)  
-- Voice interfaces (real-time, production-grade)  
-- Infrastructure for AI-native apps  
-
----
-
-### Here's how to reach me
+### Contact
 
 - Email: yahme02@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/yaseen-sg-ahmed/
 
 ---
 
-### Notes
-
-Most of my work isn’t in public repos.
-
-If something here resonates, reach out.
+<p align="center">
+<i>Most of my work isn’t public. If this resonates, reach out.</i>
+</p>
