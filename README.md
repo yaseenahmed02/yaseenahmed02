@@ -1,18 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/>
-
-<br/>
-
 <div align="center">
 
-<a href="https://github.com/yaseen-ahmed">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=42&duration=1&pause=99999&color=000000&center=true&vCenter=true&width=460&lines=Yaseen+Ahmed" alt="Yaseen Ahmed" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=220&section=header&text=Yaseen%20Ahmed&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Building%20AI%20systems%20that%20execute%2C%20not%20just%20generate.&descSize=16&descAlignY=72&fontAlignY=42&fontAlign=30&descAlign=32"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1200&color=888888&center=true&vCenter=true&width=640&lines=Building+AI+systems+that+execute%2C+not+just+generate.;From+assistant+%E2%86%92+operator.;Voice+as+the+new+execution+layer.;Agentic+systems+that+close+the+loop." alt="Rotating tagline" />
-
-<br/><br/>
 
 [![Voqal](https://img.shields.io/badge/Voqal-000000?style=for-the-badge&logoColor=white&logo=googlepodcasts)](https://voqal.ai)&nbsp;
 [![QA Flow](https://img.shields.io/badge/QA_Flow-000000?style=for-the-badge&logo=checkmarx&logoColor=white)](https://qaflow.com)&nbsp;
@@ -140,7 +130,7 @@ The next generation of products don't wait for input, don't require navigation, 
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yaseen-ahmed&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&icon_color=000000&count_private=true&ring_color=000000" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=yaseen-ahmed&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&icon_color=000000&count_private=true" />
 &nbsp;
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseen-ahmed&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&langs_count=6" />
 
@@ -169,8 +159,8 @@ The next generation of products don't wait for input, don't require navigation, 
 
 <sub>Most of my work isn't public. If this resonates, reach out.</sub>
 
-<br/>
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=100&section=footer&reversal=true"/>
