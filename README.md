@@ -7,7 +7,7 @@ Building AI systems that execute, not just generate.
 <p align="center">
 <a href="https://voqal.ai">Voqal</a> • 
 <a href="https://qaflow.com">QA flow</a> • 
-<a href="https://islandshq.xyz">Islands</a>
+<a href="https://islandshq.xyz">Islands</a> •
 <a href="https://coachpal.app">CoachPal</a>
 </p>
 
