@@ -1,107 +1,74 @@
-<img width="100%" src="./header.svg" alt="Yaseen Ahmed — Building AI systems that execute, not just generate"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=1&pause=99999&color=000000&center=true&vCenter=true&width=600&height=80&lines=YASEEN+AHMED" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=800&color=999999&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Building+AI+systems+that+execute%2C+not+just+generate.;From+assistant+%E2%86%92+operator.;Voice+as+the+new+interface.;Agentic+systems+that+close+the+loop." />
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+[![](https://img.shields.io/badge/-VOQAL-000?style=for-the-badge)](https://voqal.ai)
+[![](https://img.shields.io/badge/-QA_FLOW-000?style=for-the-badge)](https://qaflow.com)
+[![](https://img.shields.io/badge/-COACHPAL-000?style=for-the-badge)](https://coachpal.app)
+[![](https://img.shields.io/badge/-ISLANDS_HQ-000?style=for-the-badge)](https://islandshq.xyz)
 
-**`> what I build`**
+</div>
 
-**Head of AI** @ [Islands](https://islandshq.xyz)  
-AI systems that go from intent → action. No human in the loop.
-
-**Founder** @ [Voqal](https://voqal.ai)  
-Arabic-first voice as an execution layer. Not a chatbot — an operator.
-
-**Founder** @ [CoachPal](https://coachpal.app)  
-The OS for human performance. 600+ users on launch.
-
-**Founding Engineer** @ [QA Flow](https://qaflow.com)  
-Autonomous QA engineers that ship, not just flag.
-
-</td>
-<td width="50%" valign="top">
-
-**`> current_focus.py`**
+---
 
 ```python
-focus = [
-  "End-to-end agentic execution",
-  "Voice replacing traditional UX",
-  "ML that drives decisions, not dashboards",
-  "Multi-agent orchestration at scale",
-]
-
-status = "shipping"  # always
+class YaseenAhmed:
+    role     = "Head of AI @ Islands HQ"
+    building = ["Voqal", "CoachPal", "QA Flow"]
+    thesis   = "AI should execute, not assist"
+    status   = "shipping"
 ```
 
-</td>
-</tr>
-</table>
+---
 
-<img width="100%" height="1" src="https://i.imgur.com/wL5sFm8.png"/>
+**`01 — VOQAL`** &nbsp; [![](https://img.shields.io/badge/800%2B_users_/_2_months-111?style=flat-square)](https://voqal.ai)  
+Voice as an execution layer for business. Arabic-first. Not a chatbot — an operator.
 
-<br/>
+**`02 — QA FLOW`** &nbsp; [![](https://img.shields.io/badge/founding_engineer-111?style=flat-square)](https://qaflow.com)  
+Autonomous QA engineers that ship. No tickets, no Jira ping-pong — just working software.
 
-**`> thesis`**
+**`03 — COACHPAL`** &nbsp; [![](https://img.shields.io/badge/600%2B_users_on_launch-111?style=flat-square)](https://coachpal.app)  
+The OS for human performance. Health, sleep, output — closed loop.
 
-Most software still assumes humans are in the loop. That breaks at scale.
+**`04 — ISLANDS HQ`** &nbsp; [![](https://img.shields.io/badge/AI_venture_studio-111?style=flat-square)](https://islandshq.xyz)  
+Where all of the above is built.
+
+---
 
 ```
-Traditional:   User → UI → App → Output → User reviews → User acts
-Agentic:       Intent → System executes → Done
+TRADITIONAL:  user → ui → app → output → user reviews → user acts
+AGENTIC:      intent → system executes → done
 ```
 
-The next generation of products don't wait for input, don't require navigation, don't expose complexity.  
-**They understand intent and act.**
+> Most software still assumes humans are in the loop.  
+> That breaks at scale.
 
-<br/>
-
-**`> areas of work`**
-
-| Domain | What I actually build |
-|---|---|
-| Multi-agent systems | MCP, tool use, orchestration, memory |
-| Voice infrastructure | Real-time pipelines, Arabic NLP, execution layers |
-| LLM + backend | Production integration, not prototypes |
-| ML systems | Forecasting, optimization, closed-loop decision making |
-| AI-native architecture | Products built around AI, not retrofitted with it |
-
-<br/>
-
-**`> stack`**
+---
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,pytorch,fastapi,react,nextjs,postgres,redis,docker,aws&perline=10" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=yaseen-ahmed&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=555&icon_color=fff&count_private=true&hide_title=true" height="130"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseen-ahmed&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=555&langs_count=5&hide_title=true" height="130"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=yaseen-ahmed&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=555555&dates=333333&currStreakNum=ffffff&sideNums=ffffff" height="130"/>
+
 </div>
 
-<br/>
-
-**`> impact`**
-
-![](https://img.shields.io/badge/Voqal-800%2B_users_%2F_2_months-161616?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/CoachPal-600%2B_users_on_launch-161616?style=flat-square)
-
-<br/>
-
-**`> github`**
+---
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yaseen-ahmed&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=555555&icon_color=ffffff&count_private=true" />
+
+[![](https://img.shields.io/badge/yahme02%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:yahme02@gmail.com)
 &nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseen-ahmed&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=555555&langs_count=6" />
-</div>
+[![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/yaseen-sg-ahmed/)
 
-<br/>
-
-**`> reach out`**
-
-<div align="center">
-
-[![](https://img.shields.io/badge/yahme02%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahme02@gmail.com)&nbsp;
-[![](https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaseen-sg-ahmed/)
-
-<sub>Most of my work isn't public. If this resonates, reach out.</sub>
+<sub>most of my work isn't public. if this resonates, reach out.</sub>
 
 </div>
